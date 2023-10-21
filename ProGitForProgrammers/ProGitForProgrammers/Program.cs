@@ -10,6 +10,7 @@ namespace ProGitForProgrammers
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hell world");
         }
     }
 }
