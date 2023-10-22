@@ -12,6 +12,9 @@ namespace ProGitForProgrammers
         {
             return left + right;
         }
-
+        public int Sub(int left, int right)
+        {
+            return left - right;
+        }
     }
 }
